@@ -1,5 +1,7 @@
-luftdaten.info flashing tool
-============================
+Nettigo Air Monitor Flashing Tool
+=================================
+
+Based on Luftdaten.info flashing tool (opendata-stuttgart/airrohr-firmware-flasher)
 
 Binary builds
 -------------
